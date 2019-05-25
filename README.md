@@ -5,7 +5,7 @@ La empresa está organizada en tres departamentos los cuales son: Almacén, vent
 
 En la empresa solo hay una impresora para todos.
 
-Los usuarios solo podrán entrar al sistema de 8:00 a 15:00 de lunes a viernes.
+Los usuarios solo podrán entrar al sistema de 8:00 a 16:00 de lunes a viernes.
 
 Todo el sistema está en la red 192.168.15.0/24.
 
